@@ -1,0 +1,11 @@
+.imagi{
+    height:20vh;
+    width:20vw;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 17vh;
+}
